@@ -1,0 +1,2 @@
+motion_plan:robotcraft-pathfinding
+-DCATKIN_DEVEL_PREFIX=/home/gurkiratsingh/gurkirat_ubuntu/maze-solving-robo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gurkiratsingh/gurkirat_ubuntu/maze-solving-robo/catkin_ws/install -G Unix Makefiles

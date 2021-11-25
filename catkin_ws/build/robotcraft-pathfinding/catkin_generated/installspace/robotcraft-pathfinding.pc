@@ -1,0 +1,8 @@
+prefix=/home/gurkiratsingh/gurkirat_ubuntu/maze-solving-robo/catkin_ws/install
+
+Name: robotcraft-pathfinding
+Description: Description of robotcraft-pathfinding
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
